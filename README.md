@@ -3,7 +3,12 @@
 Real-time multilingual text translator with speak & copy features – built with pure HTML/CSS/JS.
 
 # Screenshots
+-Before Transalation
+
 ![image alt](https://github.com/prabhas-byte/codealpha_language-translator/blob/ce58ae19ee186d6e0ed7a007ec74ea806baf8e8a/Screenshot%202026-02-02%20151202.png)
+
+-After Transalation
+
 ![image alt](https://github.com/prabhas-byte/codealpha_language-translator/blob/f87bbd53219b1c8cc19fb60f8400513c873aaa27/Screenshot%202026-02-02%20151321.png)
 
 ## Features
