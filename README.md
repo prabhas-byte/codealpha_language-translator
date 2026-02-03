@@ -1,46 +1,51 @@
-# 🌍 Language Translator – Speak Any Language Instantly
+# Language Translation 🌍
 
-Turn any text into any language faster than you can say "नमस्ते" or "Ciao"!
+Real-time multilingual text translator with speak & copy features – built with pure HTML/CSS/JS.
 
-<p align="center">
-  <img src="https://github.com/yourusername/your-repo/raw/main/task1-language-translator/screenshot-hero.png" width="70%" alt="Main Interface – Clean & Modern">
-  <br><b>Main Screen – Just type and translate</b>
-</p>
+## Features ✨
 
-### See it in action
+- Auto-detect source language
+- Supports 20+ languages (English, Telugu, Hindi, Tamil, Arabic, French, Spanish, etc.)
+- Instant translation using MyMemory API (free tier)
+- Copy translated text to clipboard
+- Text-to-speech for translated output (browser speech synthesis)
+- Responsive glassmorphism + neon UI
+- Loading states & error handling
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/prabhas-byte/codealpha_language-translator/blob/ce58ae19ee186d6e0ed7a007ec74ea806baf8e8a/Screenshot%202026-02-02%20151202.png
-">
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/prabhas-byte/codealpha_language-translator/blob/f87bbd53219b1c8cc19fb60f8400513c873aaa27/Screenshot%202026-02-02%20151321.png"></td>
-      
-    </tr>
-  </table>
-</div>
+## Screenshots
 
-## ✨ Features at a Glance
+- Before Translation
 
-- 🪄 Auto-detects source language
-- 20+ languages (Telugu, Hindi, Tamil, Arabic, French, Spanish, German…)
-- ⚡ Instant translation (MyMemory API – free & fast)
-- 📋 One-click copy
-- 🔊 Speak translated text (browser voice)
-- Glassmorphism + neon glow UI that looks premium on any device
+- ![image alt](https://github.com/prabhas-byte/codealpha_language-translator/blob/ce58ae19ee186d6e0ed7a007ec74ea806baf8e8a/Screenshot%202026-02-02%20151202.png
+">)
 
-## Quick Start
+- After Translation
 
-1. Open `index.html`
-2. Type text (any language)
-3. Select target language (or leave auto)
-4. Click **Translate**
-5. Copy or listen — done!
+- ![image alt](https://github.com/prabhas-byte/codealpha_language-translator/blob/f87bbd53219b1c8cc19fb60f8400513c873aaa27/Screenshot%202026-02-02%20151321.png)
+- 
+## How to Run
 
-Pure front-end magic – no backend, no login.
+1. Open `index.html` in any modern browser (Chrome/Edge recommended)
+2. Type or paste text
+3. Select source/target languages (or leave auto-detect)
+4. Click "Translate"
+5. Use "Copy" or "Speak" buttons
 
-Made with ❤️ by Prabhas  
-February 2026
+## Technologies
+
+- HTML5
+- CSS3 (glassmorphism, gradients, flexbox, animations)
+- Vanilla JavaScript (ES6+)
+- MyMemory Translation API
+- Web Speech Synthesis API
+
+## Credits
+
+UI inspiration & some design patterns borrowed from modern web translator tools.
+
+## License
+
+MIT License – free to use, modify, and learn from.
+
+Made by Prabhas  
+February 2026 🚀
